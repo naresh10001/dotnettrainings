@@ -1,0 +1,7 @@
+C:\Users\SwathiNaresh\gittraining\dotnettrainings\FirstConsoleHelloWorld\bin\Debug\FirstConsoleHelloWorld.exe.config
+C:\Users\SwathiNaresh\gittraining\dotnettrainings\FirstConsoleHelloWorld\bin\Debug\FirstConsoleHelloWorld.exe
+C:\Users\SwathiNaresh\gittraining\dotnettrainings\FirstConsoleHelloWorld\bin\Debug\FirstConsoleHelloWorld.pdb
+C:\Users\SwathiNaresh\gittraining\dotnettrainings\FirstConsoleHelloWorld\obj\Debug\FirstConsoleHelloWorld.csprojAssemblyReference.cache
+C:\Users\SwathiNaresh\gittraining\dotnettrainings\FirstConsoleHelloWorld\obj\Debug\FirstConsoleHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\SwathiNaresh\gittraining\dotnettrainings\FirstConsoleHelloWorld\obj\Debug\FirstConsoleHelloWorld.exe
+C:\Users\SwathiNaresh\gittraining\dotnettrainings\FirstConsoleHelloWorld\obj\Debug\FirstConsoleHelloWorld.pdb
