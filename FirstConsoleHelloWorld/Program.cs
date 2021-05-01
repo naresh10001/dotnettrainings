@@ -12,6 +12,7 @@ namespace FirstConsoleHelloWorld
         {
             Console.WriteLine("Hello");
             Console.Read();
+            Console.WriteLine("Sample edit");
         }
     }
 }
